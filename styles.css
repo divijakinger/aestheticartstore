@@ -34,6 +34,9 @@
 .featured-products{
     background-color: #52665A; 
 }
+.featured-col img{
+    width: 100%;
+}
 
 .products-heading h1{
     font-weight:700;
