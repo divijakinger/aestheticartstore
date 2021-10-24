@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+}
+.landing-screen{
+    background-color: #698474;
+    height: auto;
+    width: 100%;
+}
+
+.landing-body{
+    color: #FCF8F3;
+}
+
+.landing-heading h1{
+    font-weight:700;
+    font-size: calc(2rem + 3vw);
+}
+
+.landing-text{
+    font-size: 1.5rem;
+}
+
+.landing-btn{
+    color:#698474!important;
+    background-color: #FCF8F3!important;
+    border-color: #FCF8F3!important;
+}
+
+.carousel-part{
+    background-color: #FCF8F3;
+}
+
+.featured-products{
+    background-color: #52665A; 
+}
+
+.products-heading h1{
+    font-weight:700;
+    font-size: calc(2rem + 3vw);
+    text-align: center;
+    color: #FCF8F3;
+}
+
+.product-desc h2{
+    font-weight:300;
+    font-size: 2rem;
+    text-align: center;
+    color: #FCF8F3;
+}
