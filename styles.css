@@ -51,3 +51,15 @@
     text-align: center;
     color: #FCF8F3;
 }
+
+.quote-heading h1{
+    font-weight:700;
+    font-size: calc(2rem + 3vw);
+    text-align: center;
+    color: #52665A;
+}
+
+.quote-content p{
+    font-size: 2rem;  
+
+}
