@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+.landing-screen{
+    background-color: #FEC2BC;
+}
+
+.landing-heading h1{
+    font-weight:700;
+    font-size: calc(2.5rem + 3.5vw);
+    color: #DF7A75;
+    text-align: center;
+}
+
+.landing-text{
+    background-color: #DF7A75;
+}
+
+.abouthead h1{
+    font-size: calc(2.5rem + 3.5vw);
+    color:#FCF8F3 ;
+    text-align: center;
+    writing-mode: vertical-rl; 
+}
+
+.abouttext p{
+    font-size: calc(0.8rem + 1.2vw);
+    text-align: center;
+
+}
