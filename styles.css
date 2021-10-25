@@ -47,7 +47,7 @@
 
 .product-desc h2{
     font-weight:300;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
     color: #FCF8F3;
 }
@@ -60,6 +60,5 @@
 }
 
 .quote-content p{
-    font-size: 2rem;  
-
+    font-size: calc(0.5rem + 1vw);
 }

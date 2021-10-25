@@ -24,9 +24,15 @@
     font-size: calc(0.5rem + 1vw);
     text-align: center;
 }
+
+.featured-col img{
+    border-radius: 20px 0 50px 0;
+}
 .featured-col:hover{
     cursor: pointer;
     transform: translateY(-15px);
+    background-color: #FF8547;
+    color: #FDEBE6;
 }
 
 #footer{
