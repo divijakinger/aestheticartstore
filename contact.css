@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+*{
+    font-family: 'Nunito', sans-serif; 
+}
+
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/background.jpeg');
+
+}
+
+.landing-heading h1{
+    font-weight:700;
+    font-size: calc(2rem + 3vw);
+    color: white;
+    text-align: center ;
+}
+
+.form-label{
+    font-size: calc(0.5rem + 1vw);
+    font-weight: 900;
+    color: white;
+}
+
+.nav-item a{
+    font-size: calc(0.5rem + 1vw);
+    font-weight: 900;
+}
+
+.landing-screen{
+    height: auto;
+    width: 100%;
+}
+
+.testimonial{
+    background-color: black;
+}
+
+.testimonial .testimonial-col{
+    text-align: center;
+    padding: 40px 20px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: transform 0.5s;
+    background-color: azure;
+}
+
+.testimonial .testimonial-col img{
+    width: 50px;
+    margin-top: 20px;
+    border-radius: 60%;
+}
+
+.testimonial .testimonial-col:hover{
+    transform: translateY(-10px);
+}
+
+.fas.fa-quote-left{
+    font-size: 34px;
+    color: darkorange;
+}
+
+.testimonial-col p{
+    font-size: 12px;
+    margin: 12px 0;
+    color: rgb(65, 4, 4);
+}
+
+.testimonial .testimonial-col h3{
+    font-weight: 600;
+    color: rgb(228, 124, 64);
+    font-size: 16px;
+}
