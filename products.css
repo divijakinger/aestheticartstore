@@ -39,7 +39,13 @@
     cursor: pointer;
     transform: translateY(-15px);
     background-color: #FF8547;
-    color: #FDEBE6;
+    color: #FDEBE6; 
+    border-radius: 70px;
+    transition-duration: 0.2s;  
+}
+
+.featured-col:hover > img{
+    border-radius: 70px;   
 }
 
 #footer{
