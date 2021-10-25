@@ -8,6 +8,11 @@
     width: 100%;
 }
 
+.nav-item a{
+    font-size: calc(0.5rem + 1vw);
+    font-weight: 900;
+}
+
 .landing-body{
     color: #FCF8F3;
 }

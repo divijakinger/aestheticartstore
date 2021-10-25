@@ -7,6 +7,11 @@
     background-color: #FEC2BC;
 }
 
+.nav-item a{
+    font-size: calc(0.5rem + 1vw);
+    font-weight: 900;
+}
+
 .landing-heading h1{
     font-weight:700;
     font-size: calc(2.5rem + 3.5vw);
