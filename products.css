@@ -24,3 +24,11 @@
     font-size: calc(0.5rem + 1vw);
     text-align: center;
 }
+.featured-col:hover{
+    cursor: pointer;
+    transform: translateY(-15px);
+}
+
+#footer{
+    margin-top: 20vh;
+}
